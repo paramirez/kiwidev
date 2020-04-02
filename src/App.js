@@ -34,7 +34,7 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <code>Comunicante con nosotros</code>
+            <code>contacto</code>
           </a>
           <Switch>
             <Route path="/about">
